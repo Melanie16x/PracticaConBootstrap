@@ -1,0 +1,19 @@
+body{
+    background-image: url(../img/fondoPrincipal.png);
+} 
+
+header{
+    background-color: rgb(37, 35, 35);
+}
+
+font{
+    color: white;
+}
+
+.fw-light{
+    color: white;
+}
+
+.album{
+    background-image: url(../img/fondoPrincipal.png);
+}
