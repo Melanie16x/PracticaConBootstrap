@@ -17,3 +17,7 @@ font{
 .album{
     background-image: url(../img/fondoPrincipal.png);
 }
+
+.py-5{
+    background-color: rgb(37, 35, 35);
+}
